@@ -13,3 +13,9 @@ Option to send unencrypted messages (user selected).
 Work environment: Android Studio
 Programming language: JAVA
 DB connection: Firebase
+
+Details of the encryption and decryption process appear in the image file named: "How encryption and decryption work.png"
+https://github.com/YaromCh/CyberProject---Encrypted-chat/blob/master/How%20encryption%20and%20decryption%20work.png
+
+The software demo can be seen in a video called: "CyberProject.mp4"
+https://github.com/YaromCh/CyberProject---Encrypted-chat/blob/master/CyberProject.mp4
