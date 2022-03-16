@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974009044812",
+    "project_id": "cyberproject-e56ad",
+    "storage_bucket": "cyberproject-e56ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974009044812:android:3ad6a4eabe1cdeb0ef09e9",
+        "android_client_info": {
+          "package_name": "com.example.cyberproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974009044812-8roo5sd6etjsg27921moc4gabkv8np8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjjseWNR819Mgrit2CVFtqIm8dvLgbB6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974009044812-8roo5sd6etjsg27921moc4gabkv8np8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
