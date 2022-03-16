@@ -1,4 +1,4 @@
-# CyberProject---Encrypted-chat
+# CyberProject-Encrypted-chat
 Encrypting and decrypting messages using cryptographic tools
 
 Encrypting and decrypting messages using cryptographic tools:
